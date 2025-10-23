@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yeshaswi Singh and I'm a full-stack, from Delhi</h2>
+<h2 align="left">Hi 👋! My name is Yeshaswi Singh , from Delhi</h2>
 
 ###
 
