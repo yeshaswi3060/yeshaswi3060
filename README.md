@@ -78,12 +78,16 @@ const yeshaswi = {
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=yeshaswi3060&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeshaswi3060&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165"/>
+<a href="https://github.com/yeshaswi3060">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeshaswi3060&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeshaswi3060&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yeshaswi3060&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" height="165"/>
+<a href="https://github.com/yeshaswi3060">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeshaswi3060&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</a>
 
 </div>
 
@@ -133,3 +137,4 @@ const yeshaswi = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
+![alt text](image.png)
