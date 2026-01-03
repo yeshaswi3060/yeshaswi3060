@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yeshaswi+Singh;Full+Stack+Developer;From+Delhi%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate developer building cool things 🚀</h3>
+<h3 align="center">💻 Building awesome projects | 🎯 Always learning | ☕ Powered by coffee</h3>
 
 <br/>
 
