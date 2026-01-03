@@ -19,9 +19,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yeshaswi3060&theme=dracula&hide_border=true&border_radius=15" height="150" alt="streak stats" />
 </div>
 
-<br/>
-
-<img align="right" height="180" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeshaswi3060/yeshaswi3060/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeshaswi3060/yeshaswi3060/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/yeshaswi3060/yeshaswi3060/output/github-snake.svg" />
+  </picture>
+</div>
 
 ###
 
