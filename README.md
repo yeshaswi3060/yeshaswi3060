@@ -86,7 +86,7 @@ const yeshaswi = {
 <br/><br/>
 
 <a href="https://github.com/yeshaswi3060">
-  <img src="https://streak-stats.demolab.com/?user=yeshaswi3060&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=yeshaswi3060&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </a>
 
 </div>
